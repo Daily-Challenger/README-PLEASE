@@ -18,23 +18,14 @@
 
 # 📌 참여 방법
 
-## 1. 템플릿으로 Repository 생성
+## Organization 안에서 Repository 생성
 
-이 저장소 상단의
+GitHub 상단에서:
+- **New repository** 클릭
+- **이 템플릿 선택 (Use this template)**
 
-`Use this template`
 
-버튼을 클릭해서 새로운 Repository를 생성합니다.
-
-## 2. Repository 생성 후 사용 방법
-
-템플릿으로 Repository를 생성한 뒤에는 추가 설정이 필요 없습니다.
-
-이후부터는 각자 자신의 레포에서 **main 브랜치에 커밋하고 push만 하면 자동으로 챌린지 인증이 됩니다.**
-
----
-
-### ✅ 사용 방법
+## ✅ 사용 방법
 
 1. 공부 내용 작성 또는 코드 수정
 2. 변경사항 커밋
