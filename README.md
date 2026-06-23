@@ -20,9 +20,10 @@
 
 ## Organization 안에서 Repository 생성
 
-GitHub 상단에서:
+GitHub 상단에서(https://github.com/orgs/Daily-Challenger/repositories):
 - **New repository** 클릭
 - **이 템플릿 선택 (Use this template)**
+- **원하는 이름으로 생성**
 
 
 ## ✅ 사용 방법
