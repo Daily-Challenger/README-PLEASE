@@ -31,3 +31,4 @@ GitHub 상단에서(https://github.com/orgs/Daily-Challenger/repositories):
 1. 공부 내용 작성 또는 코드 수정
 2. 변경사항 커밋
 3. main 브랜치에 push
+4. 슬랙채널로 메세지(Hook) 전송 => 커밋인증
